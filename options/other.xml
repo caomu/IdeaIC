@@ -61,7 +61,7 @@
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
-    <property name="SettingsSearchHistory" value="save&#10;template&#10;leetcode&#10;live tem&#10;recu" />
+    <property name="SettingsSearchHistory" value="expand&#10;format&#10;live&#10;save&#10;template" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
     <property name="appcds.runOnSecondStart" value="IC-203.6682.168-0686780ed7afd8b386e2eac7c3f0de651f4302e8a2a6be914b785618fe4059bf" />
@@ -72,7 +72,7 @@
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="SonarLint" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.gist.reindex.count" value="2571" />
+    <property name="file.gist.reindex.count" value="2572" />
     <property name="fileTypeChangedCounter" value="98" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
@@ -91,7 +91,7 @@
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="seenTips" value="neue-JoinLines.html" />
     <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
 </application>

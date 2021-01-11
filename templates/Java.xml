@@ -1,5 +1,26 @@
 <templateSet group="Java">
-  <template name="recur" value="public void recursion(int level, int param) {&#10;  // 递归的终止条件&#10;  if (level &gt; MAX_LEVEL) {&#10;  &#10;    return;&#10;  }&#10;&#10;  // 处理当前层逻辑&#10;  process(level, param);&#10;&#10;  // 下探到下一层&#10;  recursion(level: level + 1, newParam);&#10;&#10;  // 清理当前层&#10;&#10;}" description="recursion" toReformat="false" toShortenFQNames="true">
+  <template name="recur" value="public void recursion(int level, int param) {&#10;  // 递归的终止条件&#10;  if (level &gt; MAX_LEVEL) {&#10;  &#10;    return;&#10;  }&#10;&#10;  // 处理当前层逻辑&#10;  process(level, param);&#10;&#10;  // 下探到下一层&#10;  recursion(level: level + 1, newParam);&#10;&#10;  // 清理当前层&#10;&#10;}" description="recursion" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="uf" value="private class UnionFind {&#10;    private int[] roots;&#10;&#10;    protected UnionFind(int N) {&#10;        this.roots = IntStream.range(0, N).toArray();&#10;    }&#10;&#10;    protected void union(int p, int q) {&#10;        roots[this.findRoot(p)] = this.findRoot(q);&#10;    }&#10;&#10;    protected int findRoot(int i) {&#10;        int root = i;&#10;        while (root != roots[root]) {&#10;            root = roots[root];&#10;        }&#10;        int t;&#10;        while (i != roots[root]) {&#10;            t = roots[i];&#10;            roots[i] = root;&#10;            i = t;&#10;        }&#10;        return root;&#10;    }&#10;&#10;    protected boolean connected(int p, int q) {&#10;        return this.findRoot(p) == this.findRoot(q);&#10;    }&#10;}" description="union find" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="souta" value="System.out.println(Arrays.toString($ARRAY$));" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bfs" value="// 计算从起点 start 到终点 target 的最近距离&#10;int BFS(Node start, Node target) {&#10;    Queue&lt;Node&gt; q; // 核心数据结构&#10;    Set&lt;Node&gt; visited; // 避免走回头路&#10;    &#10;    q.offer(start); // 将起点加入队列&#10;    visited.add(start);&#10;    int step = 0; // 记录扩散的步数&#10;&#10;    while (q not empty) {&#10;        int sz = q.size();&#10;        /* 将当前队列中的所有节点向四周扩散 */&#10;        for (int i = 0; i &lt; sz; i++) {&#10;            Node cur = q.poll();&#10;            /* 划重点：这里判断是否到达终点 */&#10;            if (cur is target)&#10;                return step;&#10;            /* 将 cur 的相邻节点加入队列 */&#10;            for (Node x : cur.adj())&#10;                if (x not in visited) {&#10;                    q.offer(x);&#10;                    visited.add(x);&#10;                }&#10;        }&#10;        /* 划重点：更新步数在这里 */&#10;        step++;&#10;    }&#10;}" description="Breadth-first search" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dfs" value="/*&#10; * Return true if there is a path from cur to target.&#10; */&#10;boolean DFS(Node cur, Node target, Set&lt;Node&gt; visited) {&#10;    return true if cur is target;&#10;    for (next : each neighbor of cur) {&#10;        if (next is not in visited) {&#10;            add next to visted;&#10;            return true if DFS(next, target, visited) == true;&#10;        }&#10;    }&#10;    return false;&#10;}" description="Depth-First-Search" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

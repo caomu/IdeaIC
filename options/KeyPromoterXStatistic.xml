@@ -40,7 +40,7 @@
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
           <Count>1</Count>
-          <Hit>300</Hit>
+          <Hit>335</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -89,7 +89,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
-          <Count>68</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -121,7 +121,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -161,7 +161,7 @@
           <IdeaActionID>leetcode.RunCodeAction</IdeaActionID>
           <ShortCut>'⌃⌘Z'</ShortCut>
           <Description>Run Code</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Services">
@@ -177,7 +177,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -186,7 +186,7 @@
           <ShortCut>'⌃⌘S'</ShortCut>
           <Description>Submit</Description>
           <Count>3</Count>
-          <Hit>79</Hit>
+          <Hit>86</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -195,6 +195,15 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Testcase">
+        <Item>
+          <IdeaActionID>leetcode.TestcaseAction</IdeaActionID>
+          <ShortCut>'⌃⌘T'</ShortCut>
+          <Description>Testcase</Description>
+          <Count>1</Count>
+          <Hit>14</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
