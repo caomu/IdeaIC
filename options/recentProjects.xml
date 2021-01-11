@@ -1,0 +1,104 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/private/var/folders/d6/j9x9dxys0l3416km0kd_nj6m0000gp/T/PetApiController.java">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1k2ZCrOGujDQYwVrVl7cah4k7EH">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-202.7660.26" />
+              <option name="buildTimestamp" value="1601973178247" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1604900524737" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/rocketmq">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rocketmq-all" projectWorkspaceId="1kX7ShrccYsBEASpR1mXTKrKp2s">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-202.7660.26" />
+              <option name="buildTimestamp" value="1601973133184" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1605835087398" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/k8s-msa-in-action">
+          <value>
+            <RecentProjectMetaInfo frameTitle="k8s-msa-in-action – README.md" projectWorkspaceId="1lAe2APYoJ8sefBmBKVKG2hlBt1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775473095" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1607044113825" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/spring-petclinic-mono">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-petclinic – ~/IdeaProjects/spring-petclinic-mono/README.md" projectWorkspaceId="1lAeDgT3dGRYcggbPONWboSUkqA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775473095" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1607044205450" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/spring-petclinic-msa">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-petclinic-msa – ~/IdeaProjects/spring-petclinic-msa/README.md" projectWorkspaceId="1lAeIQZJcaf2hC4lV47VYeBBTEy">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775473095" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1607044243427" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/appsody">
+          <value>
+            <RecentProjectMetaInfo frameTitle="appsody" projectWorkspaceId="1lUcKuHIhSS5hKdb9W6eOn6dvZg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775467708" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1607655050217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/staffjoy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="staffjoy-parent" projectWorkspaceId="1lAeSkSgniMNmw0bIm5WQpEN4KQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.6682.168" />
+              <option name="buildTimestamp" value="1609240697695" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1610020718386" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode_java">
+          <value>
+            <RecentProjectMetaInfo frameTitle="leetcode_java" opened="true" projectWorkspaceId="1mElBB9RQvrMcb0hRg9Wje7merL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.6682.168" />
+              <option name="buildTimestamp" value="1609240735760" />
+              <frame x="0" y="25" width="1680" height="940" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1610249676320" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

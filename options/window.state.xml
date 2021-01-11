@@ -1,0 +1,48 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.3360.2100@192dpi" x="1080" y="468" />
+    <size key="find.popup.0.0.3360.2100@192dpi" width="1200" height="1044" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="25" width="1680" height="940" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="320" y="26" key="#Plugins" timestamp="1604321915444">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="320" y="26" key="#Plugins/0.23.1440.804" timestamp="1604321915444" />
+    <state x="578" y="339" width="582" height="152" key="GitCloneDialog" timestamp="1605835078654">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="578" y="339" width="582" height="152" key="GitCloneDialog/0.25.1680.940" timestamp="1605835078654" />
+    <state x="1240" y="832" width="300" height="100" key="ProcessPopupWindow" timestamp="1610253977982">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="1240" y="832" width="300" height="100" key="ProcessPopupWindow/0.25.1680.942" timestamp="1610253977982" />
+    <state x="840" y="453" key="WELCOME_SCREEN" timestamp="1610249574303">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="720" y="377" key="WELCOME_SCREEN/0.23.1440.801" timestamp="1604321693537" />
+    <state x="720" y="378" key="WELCOME_SCREEN/0.23.1440.804" timestamp="1604321915459" />
+    <state x="720" y="380" key="WELCOME_SCREEN/0.23.1440.806" timestamp="1604331592767" />
+    <state x="840" y="426" key="WELCOME_SCREEN/0.23.1680.947" timestamp="1604903902469" />
+    <state x="840" y="427" key="WELCOME_SCREEN/0.23.1680.949" timestamp="1604900555996" />
+    <state x="840" y="452" key="WELCOME_SCREEN/0.25.1680.940" timestamp="1608020574293" />
+    <state x="840" y="453" key="WELCOME_SCREEN/0.25.1680.942" timestamp="1610113188428" />
+    <state x="840" y="453" key="WELCOME_SCREEN/0.25.1680.945" timestamp="1610249574303" />
+    <state x="840" y="431" key="WELCOME_SCREEN/0.25.1680.947" timestamp="1605526644183" />
+    <state x="840" y="455" key="WELCOME_SCREEN/0.25.1680.949" timestamp="1606908579039" />
+    <state x="200" y="25" width="1280" height="876" key="new project wizard" timestamp="1609066452829">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="200" y="25" width="1280" height="876" key="new project wizard/0.25.1680.942" timestamp="1609066452829" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="recur" value="public void recursion(int level, int param) {&#10;  // 递归的终止条件&#10;  if (level &gt; MAX_LEVEL) {&#10;  &#10;    return;&#10;  }&#10;&#10;  // 处理当前层逻辑&#10;  process(level, param);&#10;&#10;  // 下探到下一层&#10;  recursion(level: level + 1, newParam);&#10;&#10;  // 清理当前层&#10;&#10;}" description="recursion" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

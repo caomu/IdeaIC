@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="321b7507-f6f9-4178-8e83-7afa6e0597b9" name="caomu">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

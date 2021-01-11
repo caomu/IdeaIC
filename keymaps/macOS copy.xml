@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="leetcode.RunCodeAction">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
+  <action id="leetcode.SubmitAction">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id="leetcode.TestcaseAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+</keymap>

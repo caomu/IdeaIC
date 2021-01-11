@@ -1,0 +1,319 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode_java" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/[206]反转链表.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/[205]同构字符串.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              <item name="com.intellij.java" type="18b656a9:ScratchTreeStructureProvider$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.docker.view.DockerServiceViewContributor@50ed1407" type="d2cb1801:ServiceModel$ContributorNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26772615" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.26772615" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.26772615" />
+      <window_info id="Commit" order="3" weight="0.3294621" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" weight="0.3294621" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3361548" />
+      <window_info anchor="bottom" id="Sequence" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.3446191" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Dart Analysis" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32889965" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" weight="0.32889965" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.32889965" />
+      <window_info anchor="right" id="leetcode" order="0" sideWeight="0.29020557" side_tool="true" visible="true" weight="0.23349634" />
+      <window_info anchor="right" id="Codota" order="1" sideWeight="0.70979446" weight="0.33801955" />
+      <window_info anchor="right" id="Key Promoter X" order="2" sideWeight="0.4993954" weight="0.3294621" />
+      <window_info anchor="right" id="Json Parser" order="3" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="27" width="880" height="936" key="#Java" timestamp="1608103833654">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="400" y="27" width="880" height="936" key="#Java/0.25.1680.940@0.25.1680.940" timestamp="1608103833654" />
+    <state x="304" y="154" width="1071" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609065954420">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="304" y="154" width="1071" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.940@0.25.1680.940" timestamp="1608103761195" />
+    <state x="304" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.942@0.25.1680.942" timestamp="1609065954420" />
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1609065286708">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog/0.25.1680.942@0.25.1680.942" timestamp="1609065286708" />
+    <state x="428" y="231" width="824" height="528" key="IDE.errors.dialog" timestamp="1607412451161">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="428" y="231" width="824" height="528" key="IDE.errors.dialog/0.25.1680.940@0.25.1680.940" timestamp="1607412451161" />
+    <state x="641" y="83" width="1024" height="843" key="SettingsEditor" timestamp="1609066374299">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="349" y="131" width="982" height="728" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1608103383529" />
+    <state x="641" y="83" width="1024" height="843" key="SettingsEditor/0.25.1680.942@0.25.1680.942" timestamp="1609066374299" />
+    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1609066299502">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1607353233118" />
+    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1609066299502" />
+    <state x="640" y="409" width="400" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609065907425">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="640" y="409" width="400" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.942@0.25.1680.942" timestamp="1609065907425" />
+    <state x="540" y="234" width="600" height="522" key="find.popup" timestamp="1607352615617">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="540" y="234" width="600" height="522" key="find.popup/0.25.1680.940@0.25.1680.940" timestamp="1607352615617" />
+    <state x="416" y="79" width="1264" height="852" key="new project wizard" timestamp="1609065744148">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="416" y="79" width="1264" height="852" key="new project wizard/0.25.1680.942@0.25.1680.942" timestamp="1609065744148" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/d6/j9x9dxys0l3416km0kd_nj6m0000gp/T/leetcode/editor/cn/[27]Remove Element.java" />
+    <entry file="file://$USER_HOME$/Downloads/Desktop/code/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/2.两数相加.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/13.罗马数字转整数.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/20.有效的括号.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/58.最后一个单词的长度.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/64.最小路径和.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/66.加一.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/69.x-的平方根.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/118.杨辉三角.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/153.寻找旋转排序数组中的最小值.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vscode/1.两数之和.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[27]Remove Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[8]字符串转换整数 (atoi).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <folding>
+            <element signature="e#0#1255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[206]反转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[205]同构字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.java/predefinedExternalAnnotations.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>15</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

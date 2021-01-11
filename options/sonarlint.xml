@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfccdfccdf9adf99dfc8df9ddf9edfc8df9cdf98df9fdf9edf9edfcedfcfdf9adfcbdf9adf9adf9fdfcfdfc8dfcedf9adf9cdfc9dfcfdfc9df98dfc9df9cdfcedf9cdf92dfccdf93dfcfdfc8df98df92</token>
+          <option name="name" value="sonarcloud" />
+          <organizationKey>caomu</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

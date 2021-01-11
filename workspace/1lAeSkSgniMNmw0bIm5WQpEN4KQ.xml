@@ -1,0 +1,761 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:frontend" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:frontend" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:app" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:frontend" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:myaccount" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>structlog</find>
+      <find>struct</find>
+      <find>stru</find>
+      <find>str</find>
+      <find>fox</find>
+      <find>java:16-jdk-alpine</find>
+      <find>account-svc</find>
+      <find>sql</find>
+      <find>volume</find>
+      <find>SERVICE_ENDPOINT</find>
+      <find>EMAIL_SERVICE_ENDPOINT</find>
+      <find>PersistentVolumeClaims</find>
+      <find>ClusterIP</find>
+      <find>access</find>
+      <find>external_access</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/kompose</dir>
+      <dir>$PROJECT_DIR$/k8s</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/common-lib/pom.xml" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/auditlog/LogEntry.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/aop/SentryClientAspect.java" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/config/StaffjoyProps.java" />
+      <option value="$PROJECT_DIR$/bot-svc/src/main/java/xyz/staffjoy/bot/service/HelperService.java" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/aop/Test.java" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/aop/Ttest.java" />
+      <option value="$PROJECT_DIR$/common-lib/src/main/java/xyz/staffjoy/common/api/BaseResponse.java" />
+      <option value="$PROJECT_DIR$/account-api/src/main/java/xyz/staffjoy/account/client/AccountClient.java" />
+      <option value="$PROJECT_DIR$/whoami-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/account-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/bot-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/company-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/ical-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/mail-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/sms-svc/Dockerfile" />
+      <option value="$PROJECT_DIR$/frontend/myaccount/Dockerfile" />
+      <option value="$PROJECT_DIR$/frontend/app/Dockerfile" />
+      <option value="$PROJECT_DIR$/docker/Dockerfile" />
+      <option value="$PROJECT_DIR$/account-svc/pom.xml" />
+      <option value="$PROJECT_DIR$/db/script/account.sql" />
+      <option value="$PROJECT_DIR$/db/script/company.sql" />
+      <option value="$PROJECT_DIR$/db/Dockerfile" />
+      <option value="$PROJECT_DIR$/db/script/init.sql" />
+      <option value="$PROJECT_DIR$/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/k8s/prod/config/config.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/app-spa.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/bot-svc.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/company-svc.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/email-svc.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/faraday-svc.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/myaccount-spa.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/mysql.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/whoami-svc.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/www-web.yaml" />
+      <option value="$PROJECT_DIR$/k8s/prod/account-svc.yaml" />
+      <option value="$PROJECT_DIR$/kompose/faraday-service-service.yaml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="balancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="faraday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staffjoy-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staffjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27261615" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32967034" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.6204156" weight="0.32889965" />
+      <window_info anchor="bottom" id="Analysis" order="0" />
+      <window_info anchor="bottom" id="Sequence" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.17787287" side_tool="true" weight="0.32769045" />
+      <window_info anchor="bottom" id="Services" order="3" sideWeight="0.82212716" visible="true" weight="0.32769045" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32889965" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Dart Analysis" order="6" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="7" weight="0.32889965" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32889965" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.32889965" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="10" visible="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.32889965" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32889965" />
+      <window_info anchor="bottom" id="SonarLint" order="16" weight="0.39661428" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.32889965" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.3294621" />
+      <window_info anchor="right" id="Codota" order="1" visible="true" weight="0.14425428" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" weight="0.35574573" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Json Parser" order="4" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="170" width="800" height="675" key="#Docker" timestamp="1607055149596">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="440" y="170" width="800" height="675" key="#Docker/0.25.1680.945@0.25.1680.945" timestamp="1607055149596" />
+    <state x="609" y="217" width="461" height="555" key="#HTTP_Proxy" timestamp="1607351174860">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="609" y="217" width="461" height="555" key="#HTTP_Proxy/0.25.1680.940@0.25.1680.940" timestamp="1607351174860" />
+    <state x="540" y="206" width="600" height="577" key="#New_Docker_Connection" timestamp="1608266411874">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="540" y="206" width="600" height="577" key="#New_Docker_Connection/0.25.1680.940@0.25.1680.940" timestamp="1608266411874" />
+    <state x="523" y="327" width="634" height="335" key="#Notifications" timestamp="1608882316875">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="523" y="327" width="634" height="335" key="#Notifications/0.25.1680.940@0.25.1680.940" timestamp="1608882316875" />
+    <state x="304" y="154" width="1071" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608266375228">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="304" y="154" width="1071" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.940@0.25.1680.940" timestamp="1608266375228" />
+    <state x="582" y="312" width="577" height="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607345330607">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="582" y="312" width="577" height="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1680.942@0.25.1680.942" timestamp="1607345330607" />
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1607331232581">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog/0.25.1680.940@0.25.1680.940" timestamp="1607331232581" />
+    <state x="640" y="366" width="400" height="281" key="DockerComposeFileDialog" timestamp="1607055182220">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="640" y="366" width="400" height="281" key="DockerComposeFileDialog/0.25.1680.945@0.25.1680.945" timestamp="1607055182220" />
+    <state x="464" y="278" width="751" height="681" key="EditFileWatcherDialog" timestamp="1607347601479">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="464" y="278" width="751" height="681" key="EditFileWatcherDialog/0.25.1680.942@0.25.1680.942" timestamp="1607347601479" />
+    <state x="428" y="231" width="824" height="528" key="IDE.errors.dialog" timestamp="1607330057252">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="428" y="231" width="824" height="528" key="IDE.errors.dialog/0.25.1680.940@0.25.1680.940" timestamp="1607330057252" />
+    <state x="378" y="154" width="924" height="682" key="Maven.ArtifactSearchDialog" timestamp="1607317460809">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="378" y="154" width="924" height="682" key="Maven.ArtifactSearchDialog/0.25.1680.942@0.25.1680.942" timestamp="1607317460809" />
+    <state x="604" y="118" width="472" height="754" key="RollbackChangesDialog" timestamp="1607339000215">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="604" y="118" width="472" height="754" key="RollbackChangesDialog/0.25.1680.940@0.25.1680.940" timestamp="1607339000215" />
+    <state x="0" y="25" width="1680" height="940" key="SettingsEditor" timestamp="1609050830907">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="0" y="25" width="1680" height="940" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1608452084971" />
+    <state x="0" y="25" width="1680" height="942" key="SettingsEditor/0.25.1680.942@0.25.1680.942" timestamp="1609050830907" />
+    <state x="0" y="25" width="1680" height="945" key="SettingsEditor/0.25.1680.945@0.25.1680.945" timestamp="1608298898672" />
+    <state x="540" y="103" width="600" height="783" key="find.popup" timestamp="1608465362567">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="540" y="103" width="600" height="783" key="find.popup/0.25.1680.940@0.25.1680.940" timestamp="1608465362567" />
+    <state x="540" y="103" width="600" height="785" key="find.popup/0.25.1680.942@0.25.1680.942" timestamp="1608293863840" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kompose/db-service-claim0-persistentvolumeclaim.yaml" />
+    <entry file="file://$PROJECT_DIR$/kompose/db-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/db-service-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/company-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k8s/test/www-web.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/external_access-networkpolicy.yaml" />
+    <entry file="file://$PROJECT_DIR$/k8s/prod/www-web.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k8s/prod/whoami-svc.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k8s/prod/app-spa.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k8s/prod/account-svc.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/account-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/bot-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/email-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/faraday-service-deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/faraday-service-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kompose/internal_access-networkpolicy.yaml" />
+    <entry file="file://$PROJECT_DIR$/k8s/prod/mysql.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k8s/prod/faraday-svc.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/exceptions/FaradayException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/filter/SecurityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/RequestForwarder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/UnmodifiableRequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/HttpEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/IncomingRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/TraceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/utils/BodyConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/utils/UriCorrector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/ReceivedResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/ProxyingTraceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/trace/LoggingTraceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/interceptor/CacheResponseInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/interceptor/AuthRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/filter/NakedDomainFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/filter/HealthCheckFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/filter/FaviconFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/balancer/RandomLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/balancer/LoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/config/FaradayConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/config/FaradayProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/config/MetricsProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/config/StaffjoyPropreties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/config/TracingProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/controller/GlobalErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/ForwardDestination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/HttpClientProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/RequestDataExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/ResponseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faraday/src/main/java/xyz/staffjoy/faraday/core/http/ReverseProxyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>HTKK copyright</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17274758" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48618785" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="-2d9f7b22:1763c04ac25:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>
