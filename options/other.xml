@@ -54,12 +54,11 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="File Header" />
-    <property name="InstalledPluginsSearchHistory" value="recur&#10;recu&#10;rec&#10;recr&#10;recru" />
+    <property name="InstalledPluginsSearchHistory" value="Casbin&#10;recur&#10;recu&#10;rec&#10;recr" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
-    <property name="MarketplacePluginsSearchHistory" value="recur&#10;recursion /sortBy:downloads&#10;recursion&#10;rec&#10;resu" />
+    <property name="MarketplacePluginsSearchHistory" value="Casbin&#10;recur&#10;recursion /sortBy:downloads&#10;recursion&#10;rec" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
     <property name="SettingsSearchHistory" value="expand&#10;format&#10;live&#10;save&#10;template" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
@@ -73,7 +72,7 @@
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="file.gist.reindex.count" value="2572" />
-    <property name="fileTypeChangedCounter" value="98" />
+    <property name="fileTypeChangedCounter" value="100" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />

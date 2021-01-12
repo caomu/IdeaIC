@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="souta" value="System.out.println(Arrays.toString($ARRAY$));" toReformat="true" toShortenFQNames="true">
+  <template name="souta" value="System.out.println(Arrays.toString($ARRAY$));" description="" toReformat="true" toShortenFQNames="true">
     <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />

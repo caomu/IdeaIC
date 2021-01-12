@@ -72,6 +72,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.casbin">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.github.will7200.plugins.casbin" />
+              <option name="myPluginName" value="Casbin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.casbincsv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.github.will7200.plugins.casbin" />
+              <option name="myPluginName" value="Casbin" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cfignore">
           <value>
             <plugin>
@@ -103,6 +119,14 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.github.will7200.plugins.casbin" />
+              <option name="myPluginName" value="Casbin" />
             </plugin>
           </value>
         </entry>
