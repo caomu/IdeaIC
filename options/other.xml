@@ -54,16 +54,17 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="File Header" />
-    <property name="InstalledPluginsSearchHistory" value="Casbin&#10;recur&#10;recu&#10;rec&#10;recr" />
+    <property name="InstalledPluginsSearchHistory" value="live tem&#10;live te&#10;live&#10;li&#10;l" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="MarketplacePluginsSearchHistory" value="Casbin&#10;recur&#10;recursion /sortBy:downloads&#10;recursion&#10;rec" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
-    <property name="SettingsSearchHistory" value="expand&#10;format&#10;live&#10;save&#10;template" />
+    <property name="SettingsSearchHistory" value="live tem&#10;live&#10;li&#10;expand&#10;format" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-0686780ed7afd8b386e2eac7c3f0de651f4302e8a2a6be914b785618fe4059bf" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-ddd23eb28dbb0759ebc5300b13dcde944bfe7b8f92c98a3c4776ed233a0bbe4d" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
@@ -71,8 +72,8 @@
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="SonarLint" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.gist.reindex.count" value="2572" />
-    <property name="fileTypeChangedCounter" value="100" />
+    <property name="file.gist.reindex.count" value="2576" />
+    <property name="fileTypeChangedCounter" value="126" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />
@@ -85,7 +86,7 @@
     <property name="mt.showStatisticsAgreement" value="true" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1609921081548" />
+    <property name="packagesearch.status.updated.ts" value="1610529182687" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="seenTips" value="neue-JoinLines.html" />
