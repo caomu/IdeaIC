@@ -15,17 +15,32 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bfs" value="// 计算从起点 start 到终点 target 的最近距离&#10;int BFS(Node start, Node target) {&#10;    Queue&lt;Node&gt; q; // 核心数据结构&#10;    Set&lt;Node&gt; visited; // 避免走回头路&#10;    &#10;    q.offer(start); // 将起点加入队列&#10;    visited.add(start);&#10;    int step = 0; // 记录扩散的步数&#10;&#10;    while (q not empty) {&#10;        int sz = q.size();&#10;        /* 将当前队列中的所有节点向四周扩散 */&#10;        for (int i = 0; i &lt; sz; i++) {&#10;            Node cur = q.poll();&#10;            /* 划重点：这里判断是否到达终点 */&#10;            if (cur is target)&#10;                return step;&#10;            /* 将 cur 的相邻节点加入队列 */&#10;            for (Node x : cur.adj())&#10;                if (x not in visited) {&#10;                    q.offer(x);&#10;                    visited.add(x);&#10;                }&#10;        }&#10;        /* 划重点：更新步数在这里 */&#10;        step++;&#10;    }&#10;}" description="Breadth-first search" toReformat="true" toShortenFQNames="true">
+  <template name="bfs" value="// 计算从起点 start 到终点 target 的最近距离&#10;int BFS(Node start, Node target) {&#10;    Queue&lt;Node&gt; q = new LinkedList&lt;TreeNode&gt;(); // 核心数据结构&#10;    Set&lt;Node&gt; visited = new HashSet&lt;Node&gt;(); // 避免走回头路&#10;    &#10;    q.offer(start); // 将起点加入队列&#10;    visited.add(start);&#10;    int step = 0; // 记录扩散的步数&#10;&#10;    while (!queue.isEmpty()) {&#10;        /* 将当前队列中的所有节点向四周扩散 */&#10;        for (int i = 0; i &lt; q.size(); i++) {&#10;            Node cur = q.poll();&#10;            /* 划重点：这里判断是否到达终点 */&#10;            if (cur is target)&#10;                return step;&#10;            /* 将 cur 的相邻节点加入队列 */&#10;            for (Node x : cur.adj())&#10;                if (x not in visited) {&#10;                    q.offer(x);&#10;                    visited.add(x);&#10;                }&#10;        }&#10;        /* 划重点：更新步数在这里 */&#10;        step++;&#10;    }&#10;}" description="Breadth-first search" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="dfs" value="/*&#10; * Return true if there is a path from cur to target.&#10; */&#10;boolean DFS(Node cur, Node target, Set&lt;Node&gt; visited) {&#10;    return true if cur is target;&#10;    for (next : each neighbor of cur) {&#10;        if (next is not in visited) {&#10;            add next to visted;&#10;            return true if DFS(next, target, visited) == true;&#10;        }&#10;    }&#10;    return false;&#10;}" description="Depth-First-Search" toReformat="true" toShortenFQNames="true">
+  <template name="dfs" value="private void dfs(TreeNode node, int level, List&lt;Integer&gt; res, Set&lt;Integer&gt; visited) {&#10;    // check if can end&#10;    if (node == null) {&#10;        return;&#10;    }&#10;    visited.add(node);&#10;    // process current depth level&#10;    if (res.size() == level) {&#10;        res.add(node.val);&#10;    }&#10;    // dig into next depth&#10;    level++;&#10;    if(!visited.contains(node.right)){&#10;        this.dfs(node.right, level, res);&#10;    }&#10;    if(!visited.contains(node.left)) {&#10;        this.dfs(node.left, level, res);&#10;    }&#10;}" description="Depth-First-Search" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="bs" value="&#10;while(left &lt;= right){&#10;  mid = (left + right) &gt;&gt; 1;&#10;  if(arr[mid] &gt; key) {&#10;    //比关键字大则关键字在左区域&#10;    right = mid - 1;&#10;  } else if(arr[mid] &lt; key) {&#10;    //比关键字小则关键字在右区域&#10;    left = mid + 1;&#10;  } else {&#10;    return mid;&#10;  }" description="Binary Search" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bt-iot" value="    /**&#10;     * 递归中序遍历&#10;     * */&#10;    private void inOrderTraversal(TreeNode node, StringBuilder sb){&#10;        if(node==null){ //如果结点为空则返回&#10;            return;&#10;        }&#10;        inOrderTraversal(node.left, sb);//访问左孩子&#10;        sb.append(node.val);//访问根节点&#10;        inOrderTraversal(node.right, sb);//访问右孩子&#10;    }" description="binary tree in-order traversal" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bt-pot" value="    /**&#10;     * 递归前序遍历&#10;     * */&#10;    private void preOrderTraversal(TreeNode node, StringBuilder sb){&#10;        if(node==null) {//如果结点为空则返回&#10;            return;&#10;        }&#10;        sb.append(node.val);//访问根节点&#10;        preOrderTraversal(node.left, sb);//访问左孩子&#10;        preOrderTraversal(node.right, sb);//访问右孩子&#10;    }" description="binary tree pre-order traversal" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bt-poot" value="    /**&#10;     * 递归后序遍历&#10;     * */&#10;    private void postOrderTraversal(TreeNode node, StringBuilder sb){&#10;        if(node==null) {//如果结点为空则返回&#10;            return;&#10;        }&#10;        postOrderTraversal(node.left, sb);//访问左孩子&#10;        postOrderTraversal(node.right, sb);//访问右孩子&#10;        sb.append(node.val);//访问根节点&#10;    }" description="binary tree post-order traversal" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
