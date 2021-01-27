@@ -50,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="BuildView.Splitter.Proportion" value="0.60632914" />
+    <property name="CommitToolWindow.COMMIT_SPLITTER_PROPORTION" value="0.72268903" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
@@ -59,21 +60,24 @@
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="MarketplacePluginsSearchHistory" value="bracket  /sortBy:downloads&#10;bracket auto /sortBy:downloads&#10;bracket au /sortBy:downloads&#10;bracket a /sortBy:downloads&#10;bracket /sortBy:downloads" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
     <property name="SettingsSearchHistory" value="hit&#10;save&#10;format&#10;true&#10;smart" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-0e43949a0ba83074014d8c5647f8e7f0e724f54d8611b3f63a2b7f97d60ba88a" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-9a7c4d465c4037e26b378432eeb54ea456ac57223d37861b2d48b6ccdf6d1bf1" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="codota_token" value="fMk+vuXq/d7Cthj1l5W0Ycx8eDlgvYkHsCNuT7bz+Ze9cAd0jp5tQEyNK3TH93f6UjpvG9z3Fs7PAbkNuDY1mxnL/GXMtElM" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="SonarLint" />
+    <property name="completion.ml.arrows.notification.shown" value="true" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.gist.reindex.count" value="2576" />
+    <property name="file.gist.reindex.count" value="2577" />
     <property name="fileTypeChangedCounter" value="128" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
