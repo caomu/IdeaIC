@@ -3,6 +3,9 @@
     <option name="initConfig">
       <Config>
         <option name="codeType" value="Java" />
+        <option name="customCode" value="true" />
+        <option name="customFileName" value="src/main/java/_$!{question.frontendQuestionId}_$!velocityTool.camelCaseName(${question.titleSlug})" />
+        <option name="customTemplate" value="${question.content}&#10;&#10;public class _$!{question.frontendQuestionId}_$!velocityTool.camelCaseName(${question.titleSlug}){&#10;    public static void main(String[] args) {&#10;        Solution solution = new _$!{question.frontendQuestionId}_$!velocityTool.camelCaseName(${question.titleSlug})().new Solution();&#10;        System.out.println(solution);&#10;    }&#10;    ${question.code}&#10;}" />
         <option name="filePath" value="$USER_HOME$/IdeaProjects/leetcode_java/" />
         <option name="id" value="16421607351163474" />
         <option name="levelColour" value="#5cb85c;#f0ad4e;#d9534f;" />

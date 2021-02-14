@@ -23,7 +23,37 @@
     </select>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/WeightUnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="10" selection-end-line="62" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/UnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -31,64 +61,75 @@
       <find>node</find>
       <find>userFollowers</find>
       <find>org.w3c.dom.</find>
+      <find>class TreeNode</find>
+      <find>Position</find>
+      <find>package src.main.java;</find>
+      <find>import javax.swing.tree.TreeNode;</find>
+      <find>Entry</find>
+      <find>AbstractMap</find>
     </findStrings>
+    <replaceStrings>
+      <replace>String</replace>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/leetcode/editor/cn</dir>
+      <dir>$PROJECT_DIR$/leetcode/editor/cn/src/main/java</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[380]常数时间插入、删除和获取随机元素.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[532]数组中的 k-diff 数对.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[535]TinyURL 的加密与解密.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[640]求解方程.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[969]煎饼排序.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[692]前K个高频单词.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[451]根据字符出现频率排序.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[215]数组中的第K个最大元素.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[438]找到字符串中所有字母异位词.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[725]分隔链表.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[78]子集.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[89]格雷编码.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[49]字母异位词分组.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[989]数组形式的整数加法.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[146]LRU 缓存机制.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[15]三数之和.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[18]四数之和.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[236]二叉树的最近公共祖先.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[94]二叉树的中序遍历.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[145]二叉树的后序遍历.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[144]二叉树的前序遍历.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[537]复数乘法.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 07]重建二叉树.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[449]序列化和反序列化二叉搜索树.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[102]二叉树的层序遍历.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[508]出现次数最多的子树元素和.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[199]二叉树的右视图.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[662]二叉树最大宽度.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[200]岛屿数量.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[529]扫雷游戏.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[538]把二叉搜索树转换为累加树.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[674]最长连续递增序列.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[355]设计推特.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[23]合并K个升序链表.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[396]旋转函数.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[42]接雨水.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[138]复制带随机指针的链表.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[684]冗余连接.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[959]由斜杠划分区域.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[563]二叉树的坡度.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[283]移动零.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[448]找到所有数组中消失的数字.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[543]二叉树的直径.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[1128]等价多米诺骨牌对的数量.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[367]有效的完全平方数.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/[208]实现 Trie (前缀树).java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_429_NAryTreeLevelOrderTraversal.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_107_BinaryTreeLevelOrderTraversalIi.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_563_BinaryTreeTilt.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_101_SymmetricTree.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_169_MajorityElement.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/TreeNodeUtil.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/ListNode.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_234_PalindromeLinkedList.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_394_DecodeString.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_56_MergeIntervals.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_114_FlattenBinaryTreeToLinkedList.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_1197_MinimumKnightMoves.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_811_SubdomainVisitCount.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_139_WordBreak.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_227_BasicCalculatorIi.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/Utils.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/_286_WallsAndGates.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_56_MergeIntervals.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_783_MinimumDistanceBetweenBstNodes.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/TreeNode.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_563_BinaryTreeTilt.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Node.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_429_NAryTreeLevelOrderTraversal.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_938_RangeSumOfBst.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_107_BinaryTreeLevelOrderTraversalIi.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_114_FlattenBinaryTreeToLinkedList.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_101_SymmetricTree.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_286_WallsAndGates.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_244_ShortestWordDistanceIi.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_234_PalindromeLinkedList.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/ListNode.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_243_ShortestWordDistance.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_245_ShortestWordDistanceIii.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_347_TopKFrequentElements.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/.gitignore" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/pom.xml" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_209_MinimumSizeSubarraySum.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_362_DesignHitCounter.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_310_MinimumHeightTrees.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_635_DesignLogStorageSystem.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_384_ShuffleAnArray.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_981_TimeBasedKeyValueStore.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_162_FindPeakElement.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Utils.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_399_EvaluateDivision.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/UnionFind.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/WeightUnionFind.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -97,6 +138,17 @@
         <option value="$PROJECT_DIR$/.idea" />
       </set>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode_cn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
@@ -112,7 +164,32 @@
             <path>
               <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="[剑指 Offer 07]重建二叉树.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -134,7 +211,7 @@
     </option>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_FIELDS,SHOW_NON_PUBLIC" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_FIELDS,SHOW_NON_PUBLIC,ALPHA_COMPARATOR" />
   </component>
   <component name="TerminalArrangementManager">
     <option name="mySelectedTabIndex" value="-1" />
@@ -149,98 +226,163 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4920635" visible="true" weight="0.29217604" />
-      <window_info id="Structure" order="1" sideWeight="0.50793654" side_tool="true" visible="true" weight="0.29217604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6552962" visible="true" weight="0.17787287" />
+      <window_info id="Structure" order="1" sideWeight="0.34470376" side_tool="true" visible="true" weight="0.17787287" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Commit" order="3" sideWeight="0.57007873" weight="0.17726162" />
+      <window_info id="Commit" order="3" sideWeight="0.5633803" weight="0.17726162" />
       <window_info id="Learn" order="4" />
-      <window_info id="Pull Requests" order="5" weight="0.3294621" />
+      <window_info id="Pull Requests" order="5" sideWeight="0.4990991" weight="0.3294621" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32889965" />
       <window_info anchor="bottom" id="Analysis" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.59046453" side_tool="true" visible="true" weight="0.2382104" />
-      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.5110024" visible="true" weight="0.32889965" />
-      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32810616" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.5091687" weight="0.32810616" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32810616" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32889965" />
-      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32889965" />
-      <window_info anchor="bottom" id="Casbin Executor" order="7" weight="0.32889965" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="CheckStyle" order="11" visible="true" weight="0.3361548" />
-      <window_info anchor="bottom" id="Services" order="12" weight="0.32889965" />
-      <window_info anchor="bottom" id="SonarLint" order="13" sideWeight="0.40953544" visible="true" weight="0.2382104" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32889965" />
+      <window_info anchor="bottom" id="Tail" order="6" weight="0.32889965" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.3293124" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32889965" />
+      <window_info anchor="bottom" id="Casbin Executor" order="8" weight="0.32889965" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.44390833" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32889965" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" visible="true" weight="0.3361548" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.32889965" />
+      <window_info anchor="bottom" id="SonarLint" order="14" sideWeight="0.40953544" weight="0.5525998" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32810616" />
       <window_info anchor="right" id="Key Promoter X" order="0" sideWeight="0.4990991" weight="0.3294621" />
-      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.5009009" side_tool="true" visible="true" weight="0.30378973" />
+      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.50179857" side_tool="true" visible="true" weight="0.3294621" />
       <window_info anchor="right" id="Codota" order="2" sideWeight="0.7117117" weight="0.3294621" />
-      <window_info anchor="right" id="Json Parser" order="3" sideWeight="0.76216215" weight="0.3294621" />
+      <window_info anchor="right" id="Json Parser" order="3" sideWeight="0.7612208" weight="0.3294621" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49820143" weight="0.3294621" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49362478" visible="true" weight="0.26405868" />
-      <window_info id="Structure" order="1" sideWeight="0.50637525" side_tool="true" weight="0.16442543" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Commit" order="3" weight="0.23533008" />
-      <window_info id="Learn" order="4" />
-      <window_info id="Pull Requests" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32889965" />
-      <window_info anchor="bottom" id="Analysis" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.35308343" />
-      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.5122249" visible="true" weight="0.32889965" />
-      <window_info anchor="bottom" id="Run" order="4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32889965" />
-      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32889965" />
-      <window_info anchor="bottom" id="Casbin Executor" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="CheckStyle" order="11" visible="true" weight="0.3361548" />
-      <window_info anchor="bottom" id="Services" order="12" weight="0.32889965" />
-      <window_info anchor="bottom" id="SonarLint" order="13" weight="0.32889965" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32889965" />
-      <window_info anchor="right" id="Key Promoter X" order="0" sideWeight="0.4990991" weight="0.3294621" />
-      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.5009009" side_tool="true" visible="true" weight="0.3801956" />
-      <window_info anchor="right" id="Codota" order="2" sideWeight="0.7117117" weight="0.3294621" />
-      <window_info anchor="right" id="Json Parser" order="3" sideWeight="0.76216215" weight="0.3294621" />
-    </layout-to-restore>
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="329" width="634" height="335" key="#Notifications" timestamp="1610249686940">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="523" y="330" width="634" height="352" key="#Notifications" timestamp="1612946297691">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
     <state x="523" y="327" width="634" height="335" key="#Notifications/0.25.1680.940@0.25.1680.940" timestamp="1609214443431" />
     <state x="523" y="329" key="#Notifications/0.25.1680.945@0.25.1680.945" timestamp="1610249686940" />
+    <state x="523" y="330" width="634" height="352" key="#Notifications/0.25.1680.947@0.25.1680.947" timestamp="1612946297691" />
     <state x="530" y="270" width="620" height="449" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1610354115246">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="530" y="270" width="620" height="449" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.25.1680.942@0.25.1680.942" timestamp="1610354115246" />
-    <state x="573" y="196" width="533" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1611639065756">
-      <screen x="0" y="25" width="1680" height="947" />
+    <state x="573" y="196" width="533" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1613229577822">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
-    <state x="573" y="195" width="533" height="599" key="#com.intellij.ide.util.MemberChooser/0.25.1680.942@0.25.1680.942" timestamp="1611417672494" />
+    <state x="573" y="195" width="533" height="599" key="#com.intellij.ide.util.MemberChooser/0.25.1680.942@0.25.1680.942" timestamp="1613204119193" />
+    <state x="573" y="196" key="#com.intellij.ide.util.MemberChooser/0.25.1680.945@0.25.1680.945" timestamp="1613029550665" />
     <state x="573" y="196" key="#com.intellij.ide.util.MemberChooser/0.25.1680.947@0.25.1680.947" timestamp="1611639065756" />
-    <state x="513" y="85" width="653" height="820" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1610932149251">
+    <state x="573" y="196" key="#com.intellij.ide.util.MemberChooser/0.25.1680.949@0.25.1680.949" timestamp="1613229577822" />
+    <state x="575" y="148" width="529" height="696" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1613190880806">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
+    <state x="575" y="148" width="529" height="696" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1680.942@0.25.1680.942" timestamp="1613190880806" />
+    <state x="513" y="85" width="653" height="820" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612946351990">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
     <state x="513" y="85" width="653" height="820" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.942@0.25.1680.942" timestamp="1610932149251" />
+    <state x="513" y="85" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.947@0.25.1680.947" timestamp="1612946351990" />
+    <state x="603" y="117" width="474" height="757" key="#xdebugger.evaluate" timestamp="1613230199208">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="603" y="117" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.949@0.25.1680.949" timestamp="1613230199208" />
+    <state width="434" height="618" key="DebuggerActiveHint" timestamp="1613230791007">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="434" height="618" key="DebuggerActiveHint/0.25.1680.949@0.25.1680.949" timestamp="1613230791007" />
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1612946742149">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="100" y="125" width="1480" height="740" key="DiffContextDialog/0.25.1680.949@0.25.1680.949" timestamp="1612946742149" />
+    <state x="578" y="417" width="569" height="156" key="GitCloneDialog" timestamp="1613101137636">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="578" y="417" width="569" height="156" key="GitCloneDialog/0.25.1680.945@0.25.1680.945" timestamp="1613101137636" />
+    <state width="818" height="340" key="GridCell.Tab.0.bottom" timestamp="1613281492105">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.942@0.25.1680.942" timestamp="1613208004199" />
+    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1613097100688" />
+    <state width="818" height="302" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1613017493654" />
+    <state width="818" height="340" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1613281492105" />
+    <state width="818" height="340" key="GridCell.Tab.0.center" timestamp="1613281492104">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.942@0.25.1680.942" timestamp="1613208004198" />
+    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1613097100687" />
+    <state width="818" height="302" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1613017493653" />
+    <state width="818" height="340" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1613281492104" />
+    <state width="818" height="340" key="GridCell.Tab.0.left" timestamp="1613281492104">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.942@0.25.1680.942" timestamp="1613208004197" />
+    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1613097100686" />
+    <state width="818" height="302" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1613017493652" />
+    <state width="818" height="340" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1613281492104" />
+    <state width="818" height="340" key="GridCell.Tab.0.right" timestamp="1613281492105">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.942@0.25.1680.942" timestamp="1613208004198" />
+    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1613097100687" />
+    <state width="818" height="302" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1613017493654" />
+    <state width="818" height="340" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1613281492105" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom" timestamp="1613281492106">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="162" key="GridCell.Tab.1.bottom/0.25.1680.942@0.25.1680.942" timestamp="1613207921309" />
+    <state width="818" height="302" key="GridCell.Tab.1.bottom/0.25.1680.945@0.25.1680.945" timestamp="1613097100397" />
+    <state width="818" height="302" key="GridCell.Tab.1.bottom/0.25.1680.947@0.25.1680.947" timestamp="1613017493825" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.949@0.25.1680.949" timestamp="1613281492106" />
+    <state width="818" height="340" key="GridCell.Tab.1.center" timestamp="1613281492106">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="162" key="GridCell.Tab.1.center/0.25.1680.942@0.25.1680.942" timestamp="1613207921308" />
+    <state width="818" height="302" key="GridCell.Tab.1.center/0.25.1680.945@0.25.1680.945" timestamp="1613097100397" />
+    <state width="818" height="302" key="GridCell.Tab.1.center/0.25.1680.947@0.25.1680.947" timestamp="1613017493824" />
+    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.949@0.25.1680.949" timestamp="1613281492106" />
+    <state width="818" height="340" key="GridCell.Tab.1.left" timestamp="1613281492105">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="162" key="GridCell.Tab.1.left/0.25.1680.942@0.25.1680.942" timestamp="1613207921308" />
+    <state width="818" height="302" key="GridCell.Tab.1.left/0.25.1680.945@0.25.1680.945" timestamp="1613097100397" />
+    <state width="818" height="302" key="GridCell.Tab.1.left/0.25.1680.947@0.25.1680.947" timestamp="1613017493824" />
+    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.949@0.25.1680.949" timestamp="1613281492105" />
+    <state width="818" height="340" key="GridCell.Tab.1.right" timestamp="1613281492106">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state width="818" height="162" key="GridCell.Tab.1.right/0.25.1680.942@0.25.1680.942" timestamp="1613207921308" />
+    <state width="818" height="302" key="GridCell.Tab.1.right/0.25.1680.945@0.25.1680.945" timestamp="1613097100397" />
+    <state width="818" height="302" key="GridCell.Tab.1.right/0.25.1680.947@0.25.1680.947" timestamp="1613017493824" />
+    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.949@0.25.1680.949" timestamp="1613281492106" />
     <state x="428" y="232" width="824" height="528" key="IDE.errors.dialog" timestamp="1609226232740">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="428" y="231" width="824" height="528" key="IDE.errors.dialog/0.25.1680.940@0.25.1680.940" timestamp="1609214368137" />
     <state x="428" y="232" key="IDE.errors.dialog/0.25.1680.945@0.25.1680.945" timestamp="1609226232740" />
-    <state x="0" y="25" width="1680" height="942" key="SettingsEditor" timestamp="1611673425019">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="378" y="155" width="924" height="682" key="Maven.ArtifactSearchDialog" timestamp="1613196532613">
+      <screen x="0" y="25" width="1680" height="942" />
+    </state>
+    <state x="378" y="155" width="924" height="682" key="Maven.ArtifactSearchDialog/0.25.1680.942@0.25.1680.942" timestamp="1613196532613" />
+    <state x="0" y="25" width="982" height="728" key="SettingsEditor" timestamp="1613282479422">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state x="328" y="73" width="982" height="728" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1609335507312" />
-    <state x="0" y="25" width="1680" height="942" key="SettingsEditor/0.25.1680.942@0.25.1680.942" timestamp="1611546216594" />
-    <state x="0" y="25" width="1680" height="945" key="SettingsEditor/0.25.1680.945@0.25.1680.945" timestamp="1611673425019" />
+    <state x="0" y="25" width="1680" height="942" key="SettingsEditor/0.25.1680.942@0.25.1680.942" timestamp="1613205667457" />
+    <state x="0" y="25" width="1680" height="945" key="SettingsEditor/0.25.1680.945@0.25.1680.945" timestamp="1613101304720" />
+    <state x="0" y="25" width="1680" height="947" key="SettingsEditor/0.25.1680.947@0.25.1680.947" timestamp="1613270928494" />
+    <state x="0" y="25" width="982" height="728" key="SettingsEditor/0.25.1680.949@0.25.1680.949" timestamp="1613282479422" />
     <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.951@0.25.1680.951" timestamp="1609391199884" />
     <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.953@0.25.1680.953" timestamp="1609337133873" />
-    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1611406673437">
+    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1613205969543">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="440" y="228" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1609243640094" />
-    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1611406673437" />
+    <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1613205969543" />
+    <state x="440" y="229" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1612918519612" />
+    <state x="440" y="229" key="Vcs.Push.Dialog.v2/0.25.1680.947@0.25.1680.947" timestamp="1612949959742" />
     <state x="485" y="113" width="710" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611151467565">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -250,14 +392,15 @@
     </state>
     <state x="640" y="409" width="400" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.942@0.25.1680.942" timestamp="1609077317304" />
     <state x="640" y="411" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.947@0.25.1680.947" timestamp="1610267701980" />
-    <state x="540" y="234" width="600" height="522" key="find.popup" timestamp="1609067625683">
+    <state x="540" y="234" width="600" height="580" key="find.popup" timestamp="1613191362621">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
-    <state x="540" y="234" width="600" height="522" key="find.popup/0.25.1680.942@0.25.1680.942" timestamp="1609067625683" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1611627827479">
+    <state x="540" y="234" width="600" height="580" key="find.popup/0.25.1680.942@0.25.1680.942" timestamp="1613191362621" />
+    <state x="540" y="235" width="600" height="525" key="find.popup/0.25.1680.947@0.25.1680.947" timestamp="1612949429917" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1613146961202">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
-    <state width="600" height="440" key="javadoc.popup/0.25.1680.942@0.25.1680.942" timestamp="1611627827479" />
+    <state width="600" height="440" key="javadoc.popup/0.25.1680.942@0.25.1680.942" timestamp="1613146961202" />
     <state x="475" y="69" width="729" height="852" key="new project wizard" timestamp="1609066607186">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -266,441 +409,306 @@
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="281" y="202" width="1077" height="482" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx/0.25.1680.953@0.25.1680.953" timestamp="1609336033167" />
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1611235161818">
+    <state x="505" y="226" key="run.anything.popup" timestamp="1613205344940">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.25.1680.942@0.25.1680.942" timestamp="1611235161818" />
+    <state x="505" y="226" key="run.anything.popup/0.25.1680.942@0.25.1680.942" timestamp="1613205344940" />
+    <state x="505" y="233" width="670" height="681" key="search.everywhere.popup" timestamp="1613270926200">
+      <screen x="0" y="25" width="1680" height="947" />
+    </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.25.1680.942@0.25.1680.942" timestamp="1613205331547" />
+    <state x="505" y="232" width="670" height="679" key="search.everywhere.popup/0.25.1680.945@0.25.1680.945" timestamp="1613030346740" />
+    <state x="505" y="233" width="670" height="681" key="search.everywhere.popup/0.25.1680.947@0.25.1680.947" timestamp="1613270926200" />
+    <state x="505" y="233" width="670" height="682" key="search.everywhere.popup/0.25.1680.949@0.25.1680.949" timestamp="1613267830939" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>qSupplier.get().count()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[508]出现次数最多的子树元素和.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/_1_TwoSum.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/leetcode/editor/cn/translation.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="68" column="95" selection-start-line="68" selection-start-column="83" selection-end-line="68" selection-end-column="95" />
+        <state relative-caret-position="-4210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/leetcode/editor/cn/_4_MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/leetcode/editor/cn/all.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_4_MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_56_MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1771#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_139_WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.69/fastjson-1.2.69.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+          <folding>
+            <element signature="e#4010#4011#0" expanded="true" />
+            <element signature="e#4068#4069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.69/fastjson-1.2.69.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding>
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_286_WallsAndGates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="88" column="53" lean-forward="true" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[200]岛屿数量.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="88" column="26" lean-forward="true" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        <state relative-caret-position="189">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_234_PalindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_245_ShortestWordDistanceIii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1672#1673#0" expanded="true" />
-            <element signature="e#1739#1740#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_243_ShortestWordDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="569" column="30" selection-start-line="569" selection-start-column="30" selection-end-line="569" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[529]扫雷游戏.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="108" column="9" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1038]把二叉搜索树转换为累加树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="179" column="11" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="5589" column="30" selection-start-line="5589" selection-start-column="30" selection-end-line="5589" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[538]把二叉搜索树转换为累加树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="362">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[674]最长连续递增序列.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_244_ShortestWordDistanceIi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="470" column="11" selection-start-line="470" selection-start-column="11" selection-end-line="470" selection-end-column="11" />
+        <state relative-caret-position="374">
+          <caret line="67" column="23" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="67" selection-end-column="23" />
           <folding>
-            <element signature="e#19250#19251#0" expanded="true" />
-            <element signature="e#19333#19334#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[141]环形链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201" />
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="651" column="8" selection-start-line="651" selection-start-column="8" selection-end-line="651" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1294">
-          <caret line="146" column="12" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="118" column="15" lean-forward="true" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
-          <folding>
-            <element signature="e#6181#6182#0" expanded="true" />
-            <element signature="e#6218#6219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="570" column="13" selection-start-line="570" selection-start-column="13" selection-end-line="570" selection-end-column="13" />
+        <state relative-caret-position="273">
+          <caret line="153" column="35" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="35" />
+          <folding>
+            <element signature="e#4577#4578#0" expanded="true" />
+            <element signature="e#4629#4630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_347_TopKFrequentElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="44" column="57" lean-forward="true" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="150" column="8" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_209_MinimumSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+          <folding>
+            <element signature="e#6415#6416#0" expanded="true" />
+            <element signature="e#6460#6461#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="192" column="6" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+        <state relative-caret-position="360">
+          <caret line="210" column="6" selection-start-line="210" selection-start-column="6" selection-end-line="210" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_362_DesignHitCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[355]设计推特.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="74" column="70" lean-forward="true" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+        <state relative-caret-position="174">
+          <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
           <folding>
-            <element signature="e#4916#4917#0" expanded="true" />
-            <element signature="e#5003#5004#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[23]合并K个升序链表.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="84" column="68" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="68" />
+        <state relative-caret-position="164">
+          <caret line="1158" column="31" selection-start-line="1158" selection-start-column="31" selection-end-line="1158" selection-end-column="31" />
+          <folding>
+            <element signature="e#55669#55670#0" expanded="true" />
+            <element signature="e#55755#55756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_310_MinimumHeightTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="92" column="34" lean-forward="true" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Collectors.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="669" column="4" selection-start-line="669" selection-start-column="4" selection-end-line="669" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[396]旋转函数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="203" column="17" selection-start-line="203" selection-start-column="17" selection-end-line="203" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[42]接雨水.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 07]重建二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding>
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 37]序列化二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="90" column="43" lean-forward="true" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[138]复制带随机指针的链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="108" column="55" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="55" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[684]冗余连接.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[862]和至少为 K 的最短子数组.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[959]由斜杠划分区域.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="165" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#2609#2610#0" expanded="true" />
-            <element signature="e#2668#2669#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-            <element signature="e#2898#2899#0" expanded="true" />
-            <element signature="e#2959#2960#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="1129" column="31" selection-start-line="1129" selection-start-column="31" selection-end-line="1129" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="1900" column="18" selection-start-line="1900" selection-start-column="18" selection-end-line="1900" selection-end-column="18" />
-          <folding>
-            <element signature="e#75102#75103#0" expanded="true" />
-            <element signature="e#75156#75157#0" expanded="true" />
-            <element signature="e#95929#95930#0" expanded="true" />
-            <element signature="e#95967#95968#0" expanded="true" />
-            <element signature="e#137630#137631#0" expanded="true" />
-            <element signature="e#137672#137673#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="1212" column="15" selection-start-line="1212" selection-start-column="15" selection-end-line="1212" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[563]二叉树的坡度.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="164">
+          <caret line="593" column="6" selection-start-line="593" selection-start-column="6" selection-end-line="593" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[283]移动零.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_635_DesignLogStorageSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#408#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[53]最大子序和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#438#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[448]找到所有数组中消失的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#490#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[543]二叉树的直径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#696#0" expanded="true" />
-            <element signature="e#310#376#0" expanded="true" />
-            <element signature="e#1497#1561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#1337#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="602" column="8" selection-start-line="602" selection-start-column="8" selection-end-line="602" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1128]等价多米诺骨牌对的数量.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="520">
+          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2191#2192#0" expanded="true" />
+            <element signature="e#2205#2206#0" expanded="true" />
+            <element signature="e#2336#2337#0" expanded="true" />
+            <element signature="e#2382#2383#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[104]二叉树的最大深度.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[234]回文链表.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[69]x 的平方根.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="66" column="48" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[367]有效的完全平方数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="284">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="4914" column="25" selection-start-line="4914" selection-start-column="25" selection-end-line="4914" selection-end-column="25" />
+        <state relative-caret-position="164">
+          <caret line="4119" column="30" selection-start-line="4119" selection-start-column="30" selection-end-line="4119" selection-end-column="30" />
           <folding>
             <element signature="e#188952#188953#0" expanded="true" />
             <element signature="e#188993#188994#0" expanded="true" />
@@ -710,23 +718,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[208]实现 Trie (前缀树).java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        <state relative-caret-position="164">
+          <caret line="408" column="19" selection-start-line="408" selection-start-column="19" selection-end-line="408" selection-end-column="19" />
           <folding>
-            <element signature="e#1441#1442#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#11116#11117#0" expanded="true" />
+            <element signature="e#11154#11155#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[210]课程表 II.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="132">
+          <caret line="276" column="29" selection-start-line="276" selection-start-column="29" selection-end-line="276" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_384_ShuffleAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="143" selection-start-line="143" selection-end-line="152" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1051#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#3469#3470#0" expanded="true" />
+            <element signature="e#3525#3526#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="423" column="21" selection-start-line="423" selection-start-column="21" selection-end-line="423" selection-end-column="21" />
+          <folding>
+            <element signature="e#34793#34794#0" expanded="true" />
+            <element signature="e#34845#34846#0" expanded="true" />
+            <element signature="e#55291#55292#0" expanded="true" />
+            <element signature="e#55340#55341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_981_TimeBasedKeyValueStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#1923#1924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="318" column="26" selection-start-line="318" selection-start-column="26" selection-end-line="318" selection-end-column="26" />
+          <folding>
+            <element signature="e#191073#191074#0" expanded="true" />
+            <element signature="e#191118#191119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_162_FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="69" column="67" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_399_EvaluateDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="122" column="76" selection-start-line="122" selection-start-column="76" selection-end-line="122" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1660" column="26" selection-start-line="1660" selection-start-column="26" selection-end-line="1660" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/KeyValueHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="51" column="52" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="1041" column="28" selection-start-line="1041" selection-start-column="28" selection-end-line="1041" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/WeightUnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="10" selection-end-line="62" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -736,6 +872,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>15</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -745,8 +887,6 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="GlobalLibrariesConfigurable.UI" />
-      <state key="JdkListConfigurable.UI" />
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>leetcode_cn</last-edited>
@@ -754,22 +894,13 @@
             <option name="proportions">
               <list>
                 <option value="0.17274758" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.17274758" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>

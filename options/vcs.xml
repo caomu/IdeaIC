@@ -38,6 +38,10 @@
           <option name="url" value="http://devops.corp.healthcare-tech.co.jp" />
           <option name="userName" value="guo.rong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/caomu/HackerRank.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />

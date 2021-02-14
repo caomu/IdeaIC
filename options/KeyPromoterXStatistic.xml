@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit">
@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Commit</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>18</Count>
           <Hit>2</Hit>
         </Item>
       </Statistic>
@@ -47,8 +47,26 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
+          <Count>8</Count>
+          <Hit>2359</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Cut</Description>
           <Count>2</Count>
-          <Hit>1719</Hit>
+          <Hit>111</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug</Description>
+          <Count>16</Count>
+          <Hit>79</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -56,7 +74,15 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>8</Count>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -72,7 +98,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Files...">
@@ -80,7 +106,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Files...</Description>
-          <Count>8</Count>
+          <Count>12</Count>
           <Hit>1</Hit>
         </Item>
       </Statistic>
@@ -97,7 +123,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
-          <Count>325</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -105,7 +131,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open in Right Split">
@@ -113,7 +147,16 @@
           <IdeaActionID>OpenInRightSplit</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Open in Right Split</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
           <Count>1</Count>
+          <Hit>381</Hit>
         </Item>
       </Statistic>
       <Statistic Action="ProblemsView">
@@ -129,7 +172,8 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>26</Count>
+          <Count>38</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -140,6 +184,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -148,11 +200,35 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Replace in Files...">
+        <Item>
+          <IdeaActionID>ReplaceInPath</IdeaActionID>
+          <ShortCut>'⇧⌘R'</ShortCut>
+          <Description>Replace in Files...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '_981_TimeBasedKeyValueStore'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '_981_TimeBasedKeyValueStore'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -161,7 +237,8 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>53</Count>
+          <Hit>85</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run Code">
@@ -170,7 +247,7 @@
           <ShortCut>'⌃⌘Z'</ShortCut>
           <Description>Run Code</Description>
           <Count>3</Count>
-          <Hit>686</Hit>
+          <Hit>845</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Services">
@@ -181,12 +258,138 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'JumpingOnTheClouds'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'JumpingOnTheClouds'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SherlockAndAnagrams'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SherlockAndAnagrams'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_105_ConstructBinaryTreeFromPreorderAndInorderTraversal'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_105_ConstructBinaryTreeFromPreorderAndInorderTraversal'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_114_FlattenBinaryTreeToLinkedList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_114_FlattenBinaryTreeToLinkedList'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_1197_MinimumKnightMoves'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_1197_MinimumKnightMoves'</Description>
+          <Count>6</Count>
+          <Hit>4</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_139_WordBreak'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_139_WordBreak'</Description>
+          <Count>1</Count>
+          <Hit>4</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_209_MinimumSizeSubarraySum'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_209_MinimumSizeSubarraySum'</Description>
+          <Count>3</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_243_ShortestWordDistance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_243_ShortestWordDistance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_286_WallsAndGates (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_286_WallsAndGates (1)'</Description>
+          <Count>15</Count>
+          <Hit>3</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_286_WallsAndGates'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_286_WallsAndGates'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_310_MinimumHeightTrees'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_310_MinimumHeightTrees'</Description>
+          <Count>11</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_384_ShuffleAnArray'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_384_ShuffleAnArray'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_394_DecodeString'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_394_DecodeString'</Description>
+          <Count>4</Count>
+          <Hit>7</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_399_EvaluateDivision'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_399_EvaluateDivision'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '_981_TimeBasedKeyValueStore'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '_981_TimeBasedKeyValueStore'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -194,8 +397,8 @@
           <IdeaActionID>leetcode.SubmitAction</IdeaActionID>
           <ShortCut>'⌃⌘S'</ShortCut>
           <Description>Submit</Description>
-          <Count>3</Count>
-          <Hit>297</Hit>
+          <Count>4</Count>
+          <Hit>414</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -211,8 +414,8 @@
           <IdeaActionID>leetcode.TestcaseAction</IdeaActionID>
           <ShortCut>'⌃⌘T'</ShortCut>
           <Description>Testcase</Description>
-          <Count>1</Count>
-          <Hit>202</Hit>
+          <Count>2</Count>
+          <Hit>243</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -220,7 +423,8 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>8</Count>
+          <Count>75</Count>
+          <Hit>5</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">

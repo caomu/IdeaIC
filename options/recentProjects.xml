@@ -85,15 +85,39 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/IdeaProjects/leetcode_java">
+        <entry key="/private/var/folders/d6/j9x9dxys0l3416km0kd_nj6m0000gp/T/PcrUserReserveService.java">
           <value>
-            <RecentProjectMetaInfo frameTitle="leetcode_java" opened="true" projectWorkspaceId="1mElBB9RQvrMcb0hRg9Wje7merL">
+            <RecentProjectMetaInfo frameTitle="PcrUserReserveService.java – PcrUserReserveService.java" projectWorkspaceId="1nu9iR3PDe0cq9et86vUupPGDud">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-203.6682.168" />
-              <option name="buildTimestamp" value="1609240684269" />
+              <option name="build" value="IC-203.7148.57" />
+              <option name="buildTimestamp" value="1611627849399" />
               <frame x="0" y="25" width="1680" height="940" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1610973200787" />
+              <option name="projectOpenTimestamp" value="1612229237168" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/HackerRank">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HackerRank" projectWorkspaceId="1oMfQs9car7jTWUPxAi1Eb3jmNi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.7148.57" />
+              <option name="buildTimestamp" value="1611627871616" />
+              <frame x="0" y="0" width="1680" height="1050" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1613101368302" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode_java">
+          <value>
+            <RecentProjectMetaInfo frameTitle="leetcode_java – _139_WordBreak.java" opened="true" projectWorkspaceId="1mElBB9RQvrMcb0hRg9Wje7merL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.7148.57" />
+              <option name="buildTimestamp" value="1611627881617" />
+              <frame x="0" y="25" width="1680" height="942" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1613196769689" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
