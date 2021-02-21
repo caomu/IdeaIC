@@ -70,20 +70,20 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="File Header" />
-    <property name="InstalledPluginsSearchHistory" value="javafx.&#10;leetcode&#10;lee&#10;maven /sortBy:downloads&#10;maven" />
+    <property name="InstalledPluginsSearchHistory" value="tem&#10;te&#10;template&#10;temp&#10;li" />
     <property name="KEYMAP" value="Q" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
-    <property name="MarketplacePluginsSearchHistory" value="/sortBy:downloads&#10;/sortBy:featured /sortBy:downloads&#10;/sortBy:featured&#10;ig&#10;maven /sortBy:downloads" />
+    <property name="MarketplacePluginsSearchHistory" value="helper /sortBy:downloads&#10;code helper /sortBy:downloads&#10;coder helper /sortBy:downloads&#10;codeer helper /sortBy:downloads&#10;code helper" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
-    <property name="SettingsSearchHistory" value="javafx.&#10;jdk&#10;leetcode&#10;actions&#10;save" />
+    <property name="SettingsSearchHistory" value="template&#10;tem&#10;live&#10;javafx.&#10;jdk" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-729a0f856d92dd54294ca5e335491305e5c06ed3aa17fb33805b0353618db8db" />
+    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-775c910d76d6e4e2e3208d319cdfd2f854afcca842e5653502a9cd57add9ee68" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
@@ -93,7 +93,7 @@
     <property name="completion.ml.arrows.notification.shown" value="true" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.gist.reindex.count" value="2600" />
+    <property name="file.gist.reindex.count" value="2601" />
     <property name="fileTypeChangedCounter" value="129" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
@@ -107,7 +107,7 @@
     <property name="mt.showStatisticsAgreement" value="true" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1612949107729" />
+    <property name="packagesearch.status.updated.ts" value="1613620124275" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="seenTips" value="neue-JoinLines.html" />
