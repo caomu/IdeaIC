@@ -23,29 +23,7 @@
     </select>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_646_MaximumLengthOfPairChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="82" column="36" lean-forward="true" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -76,14 +54,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_453_MinimumMovesToEqualArrayElements.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_346_MovingAverageFromDataStream.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_266_PalindromePermutation.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_342_PowerOfFour.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_359_LoggerRateLimiter.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_706_DesignHashmap.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_409_LongestPalindrome.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_985_SumOfEvenNumbersAfterQueries.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_724_FindPivotIndex.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_217_ContainsDuplicate.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1592_RearrangeSpacesBetweenWords.java" />
@@ -98,9 +68,7 @@
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_40_CombinationSumIi.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_219_ContainsDuplicateIi.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_220_ContainsDuplicateIii.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_560_SubarraySumEqualsK.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_103_BinaryTreeZigzagLevelOrderTraversal.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_287_FindTheDuplicateNumber.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_227_BasicCalculatorIi.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1238_CircularPermutationInBinaryRepresentation.java" />
@@ -125,8 +93,18 @@
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_740_DeleteAndEarn.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1143_LongestCommonSubsequence.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_322_CoinChange.java" />
-      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_646_MaximumLengthOfPairChain.java" />
       <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_650_TwoKeysKeyboard.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_416_PartitionEqualSubsetSum.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_766_ToeplitzMatrix.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_326_PowerOfThree.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_560_SubarraySumEqualsK.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1052_GrumpyBookstoreOwner.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_974_SubarraySumsDivisibleByK.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_152_MaximumProductSubarray.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_646_MaximumLengthOfPairChain.java" />
+      <option value="$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_131_PalindromePartitioning.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -145,6 +123,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,23 +151,6 @@
             </path>
             <path>
               <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="leetcode_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -196,7 +158,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ServiceViewManager">
@@ -227,19 +188,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6427289" visible="true" weight="0.18704157" />
-      <window_info id="Structure" order="1" sideWeight="0.3572711" side_tool="true" visible="true" weight="0.18704157" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6391382" visible="true" weight="0.19682151" />
+      <window_info id="Structure" order="1" sideWeight="0.36086175" side_tool="true" visible="true" weight="0.19682151" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Commit" order="3" sideWeight="0.54398566" weight="0.18154034" />
+      <window_info id="Commit" order="3" sideWeight="0.5421903" weight="0.18154034" />
       <window_info id="Learn" order="4" />
       <window_info id="Pull Requests" order="5" sideWeight="0.4990991" weight="0.3294621" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32889965" />
       <window_info anchor="bottom" id="Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32810616" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.5091687" weight="0.32810616" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32810616" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32810616" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32889965" />
       <window_info anchor="bottom" id="Tail" order="6" weight="0.32889965" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3293124" />
@@ -250,10 +210,10 @@
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32889965" />
       <window_info anchor="bottom" id="CheckStyle" order="13" visible="true" weight="0.3361548" />
       <window_info anchor="bottom" id="Services" order="14" weight="0.32889965" />
-      <window_info anchor="bottom" id="SonarLint" order="15" sideWeight="0.40953544" weight="0.5525998" />
+      <window_info anchor="bottom" id="SonarLint" order="15" sideWeight="0.5409535" weight="0.55247283" />
       <window_info anchor="bottom" id="Build" order="16" sideWeight="0.43276283" weight="0.32810616" />
       <window_info anchor="right" id="Key Promoter X" order="0" sideWeight="0.4990991" weight="0.3294621" />
-      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.50179857" side_tool="true" visible="true" weight="0.25" />
+      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.50179857" side_tool="true" visible="true" weight="0.26344743" />
       <window_info anchor="right" id="Codota" order="2" sideWeight="0.7117117" weight="0.3294621" />
       <window_info anchor="right" id="Json Parser" order="3" sideWeight="0.7612208" weight="0.3294621" />
       <window_info anchor="right" id="Maven" order="4" sideWeight="0.49820143" weight="0.3294621" />
@@ -293,20 +253,22 @@
     <state x="513" y="85" width="653" height="820" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.942@0.25.1680.942" timestamp="1610932149251" />
     <state x="513" y="85" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.947@0.25.1680.947" timestamp="1612946351990" />
     <state x="513" y="85" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.25.1680.951@0.25.1680.951" timestamp="1613826908809" />
-    <state x="603" y="117" width="474" height="757" key="#xdebugger.evaluate" timestamp="1613891541193">
-      <screen x="0" y="25" width="1680" height="951" />
+    <state x="377" y="222" width="474" height="757" key="#xdebugger.evaluate" timestamp="1614067291136">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state x="862" y="124" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.942@0.25.1680.942" timestamp="1613484848464" />
     <state x="603" y="117" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.945@0.25.1680.945" timestamp="1613644092621" />
     <state x="887" y="111" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.947@0.25.1680.947" timestamp="1613397929777" />
-    <state x="862" y="126" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.949@0.25.1680.949" timestamp="1613886231407" />
+    <state x="862" y="126" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.949@0.25.1680.949" timestamp="1614052832041" />
     <state x="603" y="117" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.951@0.25.1680.951" timestamp="1613891541193" />
-    <state x="571" y="221" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.953@0.25.1680.953" timestamp="1613872597052" />
-    <state width="410" height="103" key="DebuggerActiveHint" timestamp="1613641519378">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="571" y="221" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.953@0.25.1680.953" timestamp="1614063450376" />
+    <state x="377" y="222" width="474" height="757" key="#xdebugger.evaluate/0.25.1680.954@0.25.1680.954" timestamp="1614067291136" />
+    <state width="494" height="383" key="DebuggerActiveHint" timestamp="1614017016231">
+      <screen x="0" y="25" width="1680" height="951" />
     </state>
     <state width="410" height="103" key="DebuggerActiveHint/0.25.1680.945@0.25.1680.945" timestamp="1613641519378" />
     <state width="410" height="103" key="DebuggerActiveHint/0.25.1680.949@0.25.1680.949" timestamp="1613576040776" />
+    <state width="494" height="383" key="DebuggerActiveHint/0.25.1680.951@0.25.1680.951" timestamp="1614017016231" />
     <state x="100" y="125" width="1480" height="740" key="DiffContextDialog" timestamp="1612946742149">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
@@ -319,78 +281,86 @@
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="578" y="417" width="569" height="156" key="GitCloneDialog/0.25.1680.945@0.25.1680.945" timestamp="1613101137636" />
-    <state width="818" height="340" key="GridCell.Tab.0.bottom" timestamp="1613913176542">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.0.bottom" timestamp="1614067497819">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.0.bottom/0.25.1680.942@0.25.1680.942" timestamp="1613567789869" />
     <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1613702241970" />
     <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1613810673847" />
-    <state width="818" height="340" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1613913176542" />
-    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1613892581383" />
-    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1613880451304" />
-    <state width="818" height="340" key="GridCell.Tab.0.center" timestamp="1613913176541">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.0.bottom/0.25.1680.949@0.25.1680.949" timestamp="1614052911058" />
+    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1614040771114" />
+    <state width="818" height="244" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1614064262105" />
+    <state width="818" height="340" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1614067497819" />
+    <state width="818" height="340" key="GridCell.Tab.0.center" timestamp="1614067497818">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.0.center/0.25.1680.942@0.25.1680.942" timestamp="1613567789868" />
     <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1613702241969" />
     <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1613810673846" />
-    <state width="818" height="340" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1613913176541" />
-    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1613892581382" />
-    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1613880451301" />
-    <state width="818" height="340" key="GridCell.Tab.0.left" timestamp="1613913176541">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.0.center/0.25.1680.949@0.25.1680.949" timestamp="1614052911058" />
+    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1614040771114" />
+    <state width="818" height="244" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1614064262104" />
+    <state width="818" height="340" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1614067497818" />
+    <state width="818" height="340" key="GridCell.Tab.0.left" timestamp="1614067497818">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.0.left/0.25.1680.942@0.25.1680.942" timestamp="1613567789868" />
     <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1613702241969" />
     <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1613810673846" />
-    <state width="818" height="340" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1613913176541" />
-    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1613892581382" />
-    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1613880451301" />
-    <state width="818" height="340" key="GridCell.Tab.0.right" timestamp="1613913176542">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.0.left/0.25.1680.949@0.25.1680.949" timestamp="1614052911058" />
+    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1614040771113" />
+    <state width="818" height="244" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1614064262103" />
+    <state width="818" height="340" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1614067497818" />
+    <state width="818" height="340" key="GridCell.Tab.0.right" timestamp="1614067497819">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.0.right/0.25.1680.942@0.25.1680.942" timestamp="1613567789869" />
     <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1613702241970" />
     <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1613810673847" />
-    <state width="818" height="340" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1613913176542" />
-    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1613892581383" />
-    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1613880451302" />
-    <state width="818" height="340" key="GridCell.Tab.1.bottom" timestamp="1613913176544">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.0.right/0.25.1680.949@0.25.1680.949" timestamp="1614052911058" />
+    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1614040771114" />
+    <state width="818" height="244" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1614064262104" />
+    <state width="818" height="340" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1614067497819" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom" timestamp="1614067497821">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.942@0.25.1680.942" timestamp="1613567789870" />
     <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.945@0.25.1680.945" timestamp="1613702131285" />
     <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.947@0.25.1680.947" timestamp="1613807919055" />
-    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.949@0.25.1680.949" timestamp="1613913176544" />
-    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.951@0.25.1680.951" timestamp="1613891686451" />
-    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.953@0.25.1680.953" timestamp="1613880237673" />
-    <state width="818" height="340" key="GridCell.Tab.1.center" timestamp="1613913176543">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.949@0.25.1680.949" timestamp="1614052909196" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.951@0.25.1680.951" timestamp="1614040637887" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.953@0.25.1680.953" timestamp="1614063518729" />
+    <state width="818" height="340" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" timestamp="1614067497821" />
+    <state width="818" height="340" key="GridCell.Tab.1.center" timestamp="1614067497820">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.942@0.25.1680.942" timestamp="1613567789870" />
     <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.945@0.25.1680.945" timestamp="1613702131285" />
     <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.947@0.25.1680.947" timestamp="1613807919054" />
-    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.949@0.25.1680.949" timestamp="1613913176543" />
-    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.951@0.25.1680.951" timestamp="1613891686451" />
-    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.953@0.25.1680.953" timestamp="1613880237672" />
-    <state width="818" height="340" key="GridCell.Tab.1.left" timestamp="1613913176543">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.949@0.25.1680.949" timestamp="1614052909195" />
+    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.951@0.25.1680.951" timestamp="1614040637887" />
+    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.953@0.25.1680.953" timestamp="1614063518728" />
+    <state width="818" height="340" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" timestamp="1614067497820" />
+    <state width="818" height="340" key="GridCell.Tab.1.left" timestamp="1614067497820">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.942@0.25.1680.942" timestamp="1613567789869" />
     <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.945@0.25.1680.945" timestamp="1613702131284" />
     <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.947@0.25.1680.947" timestamp="1613807919053" />
-    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.949@0.25.1680.949" timestamp="1613913176543" />
-    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.951@0.25.1680.951" timestamp="1613891686451" />
-    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.953@0.25.1680.953" timestamp="1613880237672" />
-    <state width="818" height="340" key="GridCell.Tab.1.right" timestamp="1613913176543">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.949@0.25.1680.949" timestamp="1614052909195" />
+    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.951@0.25.1680.951" timestamp="1614040637886" />
+    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.953@0.25.1680.953" timestamp="1614063518727" />
+    <state width="818" height="340" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" timestamp="1614067497820" />
+    <state width="818" height="340" key="GridCell.Tab.1.right" timestamp="1614067497821">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.942@0.25.1680.942" timestamp="1613567789870" />
     <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.945@0.25.1680.945" timestamp="1613702131285" />
     <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.947@0.25.1680.947" timestamp="1613807919055" />
-    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.949@0.25.1680.949" timestamp="1613913176543" />
-    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.951@0.25.1680.951" timestamp="1613891686451" />
-    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.953@0.25.1680.953" timestamp="1613880237672" />
+    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.949@0.25.1680.949" timestamp="1614052909196" />
+    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.951@0.25.1680.951" timestamp="1614040637887" />
+    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.953@0.25.1680.953" timestamp="1614063518728" />
+    <state width="818" height="340" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1614067497821" />
     <state x="428" y="232" width="824" height="528" key="IDE.errors.dialog" timestamp="1609226232740">
       <screen x="0" y="25" width="1680" height="945" />
     </state>
@@ -400,23 +370,26 @@
       <screen x="0" y="25" width="1680" height="942" />
     </state>
     <state x="378" y="155" width="924" height="682" key="Maven.ArtifactSearchDialog/0.25.1680.942@0.25.1680.942" timestamp="1613196532613" />
-    <state x="0" y="25" width="982" height="728" key="SettingsEditor" timestamp="1613885257291">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state x="328" y="74" width="982" height="728" key="SettingsEditor" timestamp="1614066586421">
+      <screen x="0" y="25" width="1680" height="954" />
     </state>
     <state x="328" y="73" width="982" height="728" key="SettingsEditor/0.25.1680.940@0.25.1680.940" timestamp="1609335507312" />
     <state x="0" y="25" width="1680" height="942" key="SettingsEditor/0.25.1680.942@0.25.1680.942" timestamp="1613564170934" />
     <state x="0" y="25" width="1680" height="945" key="SettingsEditor/0.25.1680.945@0.25.1680.945" timestamp="1613699261580" />
     <state x="0" y="25" width="1680" height="947" key="SettingsEditor/0.25.1680.947@0.25.1680.947" timestamp="1613809069947" />
-    <state x="0" y="25" width="982" height="728" key="SettingsEditor/0.25.1680.949@0.25.1680.949" timestamp="1613885257291" />
-    <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.951@0.25.1680.951" timestamp="1609391199884" />
+    <state x="0" y="25" width="982" height="728" key="SettingsEditor/0.25.1680.949@0.25.1680.949" timestamp="1613962447100" />
+    <state x="328" y="74" width="1352" height="901" key="SettingsEditor/0.25.1680.951@0.25.1680.951" timestamp="1614009215156" />
     <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.953@0.25.1680.953" timestamp="1609337133873" />
-    <state x="440" y="229" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1613644912659">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.954@0.25.1680.954" timestamp="1614066586421" />
+    <state x="328" y="74" width="982" height="728" key="SettingsEditor/0.25.1680.958@0.25.1680.958" timestamp="1614059053089" />
+    <state x="440" y="230" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1613913389795">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state x="440" y="228" key="Vcs.Push.Dialog.v2/0.25.1680.940@0.25.1680.940" timestamp="1609243640094" />
     <state x="440" y="228" width="800" height="534" key="Vcs.Push.Dialog.v2/0.25.1680.942@0.25.1680.942" timestamp="1613541678558" />
     <state x="440" y="229" width="800" height="563" key="Vcs.Push.Dialog.v2/0.25.1680.945@0.25.1680.945" timestamp="1613644912659" />
     <state x="440" y="229" width="800" height="563" key="Vcs.Push.Dialog.v2/0.25.1680.947@0.25.1680.947" timestamp="1613577823556" />
+    <state x="440" y="230" key="Vcs.Push.Dialog.v2/0.25.1680.949@0.25.1680.949" timestamp="1613913389795" />
     <state x="485" y="113" width="710" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611151467565">
       <screen x="0" y="25" width="1680" height="942" />
     </state>
@@ -463,6 +436,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
       <expression>
+        <expression-string>i==6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>left==2</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -500,197 +478,53 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>text2.length()</expression-string>
+        <expression-string>str.charAt(i)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>text1.length()</expression-string>
+        <expression-string>str.charAt(begin)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>a.charAt(i - 1)</expression-string>
+        <expression-string>this.isPartition(partitions, nonPartitions, str, begin, i)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>this.deleteAndEarn(numList, numPoints, i - 2, dp)</expression-string>
+        <expression-string>str.substring(begin, i + 1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dp[2]</expression-string>
+        <expression-string>str.substring(4,4)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>this.deleteAndEarn(numList, numPoints, 3, dp)</expression-string>
+        <expression-string>str[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.substring(idx, idx + 7)</expression-string>
+        <expression-string>last.charAt(last.length()-1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.substring(idx, idx + 6)</expression-string>
+        <expression-string>last.length()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Math.min(maxLength, s.length() - idx - 1)</expression-string>
+        <expression-string>last.charAt(1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_220_ContainsDuplicateIii.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_131_PalindromePartitioning.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
-          <folding>
-            <element signature="e#191073#191074#0" expanded="true" />
-            <element signature="e#191118#191119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_103_BinaryTreeZigzagLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="91" column="13" lean-forward="true" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_287_FindTheDuplicateNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_227_BasicCalculatorIi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
-          <folding>
-            <element signature="e#20313#20314#0" expanded="true" />
-            <element signature="e#20349#20350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1238_CircularPermutationInBinaryRepresentation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="107" column="64" lean-forward="true" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_224_BasicCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_633_SumOfSquareNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="58" column="127" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="127" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/TreeNodeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2697#2698#0" expanded="true" />
-            <element signature="e#2745#2746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1023_CamelcaseMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/ListNodeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_211_DesignAddAndSearchWordsDataStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="119" column="38" lean-forward="true" selection-start-line="119" selection-start-column="38" selection-end-line="119" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -702,13 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="298" column="6" selection-start-line="298" selection-start-column="6" selection-end-line="298" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -807,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_207_CourseSchedule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -883,20 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_974_SubarraySumsDivisibleByK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_560_SubarraySumEqualsK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_718_MaximumLengthOfRepeatedSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -958,28 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="3178" column="23" selection-start-line="3178" selection-start-column="23" selection-end-line="3178" selection-end-column="23" />
-          <folding>
-            <element signature="e#3052#3053#0" expanded="true" />
-            <element signature="e#3110#3111#0" expanded="true" />
-            <element signature="e#188952#188953#0" expanded="true" />
-            <element signature="e#188993#188994#0" expanded="true" />
-            <element signature="e#238221#238222#0" expanded="true" />
-            <element signature="e#238274#238275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="651" column="8" selection-start-line="651" selection-start-column="8" selection-end-line="651" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -993,20 +777,202 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_646_MaximumLengthOfPairChain.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="82" column="36" lean-forward="true" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+        <state relative-caret-position="66">
+          <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_650_TwoKeysKeyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+          <folding>
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="430" column="30" selection-start-line="430" selection-start-column="30" selection-end-line="430" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_416_PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/WeightUnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/com/caomu/util/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_766_ToeplitzMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_326_PowerOfThree.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.logging/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="221" column="13" selection-start-line="221" selection-start-column="13" selection-end-line="221" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_325_MaximumSizeSubarraySumEqualsK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        <state relative-caret-position="164">
+          <caret line="808" column="23" selection-start-line="808" selection-start-column="23" selection-end-line="808" selection-end-column="23" />
+          <folding>
+            <element signature="e#36434#36435#0" expanded="true" />
+            <element signature="e#36494#36495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4134" column="8" selection-start-line="4134" selection-start-column="8" selection-end-line="4134" selection-end-column="8" />
+          <folding>
+            <element signature="e#3052#3053#0" expanded="true" />
+            <element signature="e#3110#3111#0" expanded="true" />
+            <element signature="e#188952#188953#0" expanded="true" />
+            <element signature="e#188993#188994#0" expanded="true" />
+            <element signature="e#189382#189383#0" expanded="true" />
+            <element signature="e#189439#189440#0" expanded="true" />
+            <element signature="e#238221#238222#0" expanded="true" />
+            <element signature="e#238274#238275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_560_SubarraySumEqualsK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_1052_GrumpyBookstoreOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" column="55" lean-forward="true" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_974_SubarraySumsDivisibleByK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="65" column="17" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="65" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_152_MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_646_MaximumLengthOfPairChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="53" column="73" selection-start-line="53" selection-start-column="73" selection-end-line="53" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="298" column="6" selection-start-line="298" selection-start-column="6" selection-end-line="298" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="405" column="14" selection-start-line="405" selection-start-column="14" selection-end-line="405" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/src/main/java/_131_PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

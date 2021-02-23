@@ -70,20 +70,20 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="File Header" />
-    <property name="InstalledPluginsSearchHistory" value="tem&#10;te&#10;template&#10;temp&#10;li" />
+    <property name="InstalledPluginsSearchHistory" value="t&#10;tem&#10;temp&#10;templ&#10;te" />
     <property name="KEYMAP" value="Q" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
-    <property name="MarketplacePluginsSearchHistory" value="helper /sortBy:downloads&#10;code helper /sortBy:downloads&#10;coder helper /sortBy:downloads&#10;codeer helper /sortBy:downloads&#10;code helper" />
+    <property name="MarketplacePluginsSearchHistory" value="templ&#10;helper /sortBy:downloads&#10;code helper /sortBy:downloads&#10;coder helper /sortBy:downloads&#10;codeer helper /sortBy:downloads" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.17274758" />
-    <property name="SettingsSearchHistory" value="template&#10;tem&#10;live&#10;javafx.&#10;jdk" />
+    <property name="SettingsSearchHistory" value="templ&#10;leetcode&#10;template&#10;tem&#10;live" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-775c910d76d6e4e2e3208d319cdfd2f854afcca842e5653502a9cd57add9ee68" />
+    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-b92f64cef1eb8265e7c04961e77824f07b6625c3679ba5260503ed504c67b458" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
