@@ -109,15 +109,27 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode-question">
+          <value>
+            <RecentProjectMetaInfo frameTitle="leetcode-question – Utils.java" projectWorkspaceId="1ovchiEtNdoTS1esm0M5ECUVd1X">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.7148.57" />
+              <option name="buildTimestamp" value="1611627881839" />
+              <frame x="0" y="25" width="1680" height="942" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1614170626519" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/leetcode_java">
           <value>
             <RecentProjectMetaInfo frameTitle="leetcode_java" opened="true" projectWorkspaceId="1mElBB9RQvrMcb0hRg9Wje7merL">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-203.7148.57" />
-              <option name="buildTimestamp" value="1611627881617" />
-              <frame x="0" y="25" width="1680" height="942" />
+              <option name="buildTimestamp" value="1611627881839" />
+              <frame x="0" y="25" width="1680" height="947" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1613196769689" />
+              <option name="projectOpenTimestamp" value="1614171303331" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
