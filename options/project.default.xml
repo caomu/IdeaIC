@@ -13,6 +13,9 @@
         <option name="showMembers" value="true" />
         <option name="showVisibilityIcons" value="true" />
       </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
       <component name="SuppressionsComponent">
         <option name="suppComments" value="[]" />
       </component>
