@@ -69,14 +69,14 @@
     </option>
   </component>
   <component name="PropertiesComponent">
-    <property name="BuildView.Splitter.Proportion" value="0.60632914" />
+    <property name="BuildView.Splitter.Proportion" value="0.22238587" />
     <property name="CommitToolWindow.COMMIT_SPLITTER_PROPORTION" value="0.72268903" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="File Header" />
     <property name="FindSplitterProportion" value="0.67560667" />
-    <property name="InstalledPluginsSearchHistory" value="live&#10;liv&#10;li&#10;t&#10;tem" />
+    <property name="InstalledPluginsSearchHistory" value="temal&#10;tem&#10;temp&#10;te&#10;leet" />
     <property name="KEYMAP" value="Q" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
@@ -89,7 +89,7 @@
     <property name="SettingsSearchHistory" value="live&#10;java.Arrays&#10;plugin&#10;leetcode&#10;live template" />
     <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;mac" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-801cc62f02d4b32edfa68e99b48846a248fa232be13618ccf48a69f866dd34ae" />
+    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-95dee725fb3e77c138e760b2b6359585fe2d4afc733a9d41afc057114f1f9292" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
@@ -100,7 +100,7 @@
     <property name="debugger.smart.chooser.counter" value="1" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.gist.reindex.count" value="2704" />
+    <property name="file.gist.reindex.count" value="2713" />
     <property name="fileTypeChangedCounter" value="129" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
@@ -114,7 +114,7 @@
     <property name="mt.showStatisticsAgreement" value="true" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1615548052303" />
+    <property name="packagesearch.status.updated.ts" value="1617945049163" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="seenTips" value="neue-JoinLines.html" />

@@ -25,7 +25,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bs" value="&#10;while(left &lt;= right){&#10;  mid = (left + right) &gt;&gt; 1;&#10;  if(arr[mid] &gt; key) {&#10;    //比关键字大则关键字在左区域&#10;    right = mid - 1;&#10;  } else if(arr[mid] &lt; key) {&#10;    //比关键字小则关键字在右区域&#10;    left = mid + 1;&#10;  } else {&#10;    return mid;&#10;  }" description="Binary Search" toReformat="true" toShortenFQNames="true">
+  <template name="bs" value="&#10;while(left &lt;= right){&#10;  mid = (left + right) &gt;&gt; 1;&#10;  if(arr[mid] &gt; key) {&#10;    right = mid - 1;&#10;  } else if(arr[mid] &lt; key) {&#10;    left = mid + 1;&#10;  } else {&#10;    return mid;&#10;  }" description="Binary Search" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -65,7 +65,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="btwithsort" value="    private void backtrack(int[] nums, Deque&lt;Integer&gt; path, int begin, List&lt;List&lt;Integer&gt;&gt; res) {&#10;        if (begin == nums.length) {&#10;            res.add(new ArrayList&lt;&gt;(path));&#10;            return;&#10;        }&#10;&#10;        for (int i = begin; i &lt; nums.length; i++) {&#10;            path.addLast(nums[i]);&#10;            //System.out.println(&quot;递归之前 =&gt; &quot; + path);&#10;            backtrack(nums, path, begin + 1, res);&#10;            // 只能用一次 backtrack(nums, path, i + 1, res);&#10;            path.removeLast();&#10;            //System.out.println(&quot;递归之后 =&gt; &quot; + path);&#10;        }&#10;    }&#10;" description="backtrack with sort" toReformat="true" toShortenFQNames="true">
+  <template name="btwithsort" value="    private void backtrack(int[] nums, Deque&lt;Integer&gt; path, int begin, List&lt;List&lt;Integer&gt;&gt; res) {&#10;        if (begin == nums.length) {&#10;            // System.out.println(&quot;递归命中 =&gt; &quot; + path);&#10;            res.add(new ArrayList&lt;&gt;(path));&#10;            return;&#10;        }&#10;&#10;        for (int i = begin; i &lt; nums.length; i++) {&#10;            path.addLast(nums[i]);&#10;            //System.out.println(&quot;递归之前 =&gt; &quot; + path);&#10;            backtrack(nums, path, i + 1, res);&#10;            // 只能用一次 backtrack(nums, path, i + 1, res);&#10;            path.removeLast();&#10;            //System.out.println(&quot;递归之后 =&gt; &quot; + path);&#10;        }&#10;    }&#10;" description="backtrack with sort" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

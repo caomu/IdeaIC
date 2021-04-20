@@ -6,10 +6,10 @@
     <size key="GridCell.Tab.0.center.0.0.3360.2100@192dpi" width="1636" height="486" />
     <size key="GridCell.Tab.0.right.0.0.3360.2100@192dpi" width="1636" height="486" />
     <size key="GridCell.Tab.0.bottom.0.0.3360.2100@192dpi" width="1636" height="486" />
-    <size key="GridCell.Tab.1.left.0.0.3360.2100@192dpi" width="1636" height="680" />
-    <size key="GridCell.Tab.1.center.0.0.3360.2100@192dpi" width="1636" height="680" />
-    <size key="GridCell.Tab.1.right.0.0.3360.2100@192dpi" width="1636" height="680" />
-    <size key="GridCell.Tab.1.bottom.0.0.3360.2100@192dpi" width="1636" height="680" />
+    <size key="GridCell.Tab.1.left.0.0.3360.2100@192dpi" width="1636" height="750" />
+    <size key="GridCell.Tab.1.center.0.0.3360.2100@192dpi" width="1636" height="750" />
+    <size key="GridCell.Tab.1.right.0.0.3360.2100@192dpi" width="1636" height="750" />
+    <size key="GridCell.Tab.1.bottom.0.0.3360.2100@192dpi" width="1636" height="750" />
   </component>
   <component name="WindowManager">
     <frame x="0" y="25" width="1680" height="945" />
@@ -38,19 +38,14 @@
     </state>
     <state x="349" y="90" width="982" height="728" key="SettingsEditor/0.25.1680.945" timestamp="1611937846785" />
     <state x="349" y="90" width="982" height="728" key="SettingsEditor/0.25.1680.947" timestamp="1614648610005" />
-    <state x="840" y="456" key="WELCOME_SCREEN" timestamp="1615338839024">
-      <screen x="0" y="25" width="1680" height="951" />
+    <state x="840" y="454" key="WELCOME_SCREEN" timestamp="1617962573173">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
-    <state x="840" y="452" key="WELCOME_SCREEN/0.25.1680.940" timestamp="1608020574293" />
     <state x="840" y="453" key="WELCOME_SCREEN/0.25.1680.942" timestamp="1613196758673" />
     <state x="840" y="454" key="WELCOME_SCREEN/0.25.1680.945" timestamp="1613101346741" />
-    <state x="840" y="455" key="WELCOME_SCREEN/0.25.1680.947" timestamp="1614668429188" />
-    <state x="840" y="455" key="WELCOME_SCREEN/0.25.1680.949" timestamp="1606908579039" />
+    <state x="840" y="455" key="WELCOME_SCREEN/0.25.1680.947" timestamp="1617957588326" />
+    <state x="840" y="454" key="WELCOME_SCREEN/0.25.1680.949" timestamp="1617962573173" />
     <state x="840" y="456" key="WELCOME_SCREEN/0.25.1680.951" timestamp="1615338839024" />
     <state x="840" y="457" key="WELCOME_SCREEN/0.25.1680.954" timestamp="1615298118036" />
-    <state x="200" y="25" width="1280" height="876" key="new project wizard" timestamp="1609066452829">
-      <screen x="0" y="25" width="1680" height="942" />
-    </state>
-    <state x="200" y="25" width="1280" height="876" key="new project wizard/0.25.1680.942" timestamp="1609066452829" />
   </component>
 </application>
